@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <unistd.h>
 /**
 * main - Print text to standard error
